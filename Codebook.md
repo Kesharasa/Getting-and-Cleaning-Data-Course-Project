@@ -27,7 +27,7 @@ output: html_document
 			6. LAYING  
 			 
 "Freq" at the end of a variable name stands for "frequency".    
-"StandarDev" at the end of a variable name stands for "Standarad Deviation".    
+"StandarDev" at the end of a variable name stands for "Standard Deviation".    
 
 ## Variable Names :- 
 
